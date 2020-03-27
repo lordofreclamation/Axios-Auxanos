@@ -1,0 +1,83 @@
+When Uploading files to your server you will want to put them in 
+proper folders for the files to be able to call upon each other. 
+Be sure to edit the db, host, user, and password in login.php and profile.php. 
+  This will allow you to proper push data to the database created via phpMyAdmin
+
+
+Folders and files you will need in your var/www/html are the following::
+  assets
+  Classes
+  images
+  Includes
+  Vendor  
+  Videos   (Used as file system folder to push uploads to)
+  b.jpg
+  Digital-Parnership.jpb  
+  elements.php  
+  generic.php
+  index.php
+  Limitless.jpg
+  MeQuaz.jph
+  phpinfo.php
+  pic01.jpg
+  pic02.jpg
+  pic03.jpg
+  pic04.jpg
+  Sharwithworld.jpg
+  slide01.jpg
+  slide02.jpg
+  silde03.jpg
+  slide04.jpg
+  slide05.jpg
+  TheWorld.jpg
+  Videouser.jpg
+  Vlogger.jpg
+  whoami.php
+
+Files to be in Classes
+  Auth.class.php
+  Config.class.php
+  Database.class.php
+  Hash.class.php
+  User.class.php
+  Util.class.php
+  
+Images// Allows you to use this folder or root folder to use the images if code is to be edited
+  bg.jpg
+  Limitless.jpg
+  pic01.jpg
+  pic02.jpg
+  pic03.jpg
+  pic04.jpg
+  Sharewithworld.jpg
+  slide01.jpg
+  slide02.jpg
+  silde03.jpg
+  slide04.jpg
+  slide05.jpg
+  TheWorld.jpg
+  Videouser.jpg
+  Vlogger.jpg
+
+Includes
+  init.php
+  
+Vendor
+  PHPass  
+    PasswordHass.php  (inside PHPass)
+  Videos  (Used as file system folder to push uploads to)
+  login.php
+  logout.php
+  profile.php
+  signup.php
+  signup_success.php
+
+
+
+
+
+
+
+
+
+
